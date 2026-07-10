@@ -1,0 +1,11 @@
+# Arquivos de design/mockup (não fazem parte do site publicado)
+*.dc.html
+.thumbnail
+support.js
+uploads/
+atlas-logo.png
+atlas-logo-header.png
+
+# OS
+Thumbs.db
+.DS_Store
