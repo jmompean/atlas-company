@@ -11,4 +11,4 @@ Publicado na [Vercel](https://vercel.com) direto a partir deste repositório —
 ## Contato
 
 - WhatsApp: [+55 11 97829-3763](https://wa.me/5511978293763)
-- E-mail: contato@atlascompany.com.br
+- E-mail: contato@atlascompany.site
